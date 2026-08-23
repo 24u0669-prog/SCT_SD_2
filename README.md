@@ -70,5 +70,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
+Soundarya Umesh Barigidad
+Information Science Engineering Student
+
 **24u0669-prog**
 GitHub: [@24u0669-prog](https://github.com/24u0669-prog)
