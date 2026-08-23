@@ -126,3 +126,7 @@ Information Science Engineering Student
 
 **24u0669-prog**
 GitHub: [@24u0669-prog](https://github.com/24u0669-prog)
+
+Internship
+SkillCraft Technology
+
