@@ -4,6 +4,12 @@ A fun, interactive command-line number guessing game built in Python. The progra
 
 ## ✨ Features
 
+- 🎲 Generates a random number
+- 🎯 Allows the user to guess the number
+- 🔥 Provides hot/cold hints
+- 📊 Tracks the number of attempts
+- 🔁 Supports replayability
+- 🖥️ Simple command-line interface
 - 🎲 Custom number range (you choose the lower and upper bounds)
 - 📈📉 Too High / Too Low feedback on every guess
 - 🔥❄️ Hot & Cold proximity hints to guide your guesses
@@ -40,6 +46,12 @@ Attempt 3/10 — Your guess: 30
 You nailed it in 3 attempt(s). Rank: 🏆 Mind Reader
 ```
 
+## 🛠️ Technologies Used
+
+- Python 3
+- Random module
+- Command-line interface
+
 ## 🚀 How to Run
 
 **Requirements:** Python 3.x (no external libraries needed)
@@ -70,7 +82,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-Soundarya Umesh Barigidad
+Soundarya Umesh Barigidad,
+
 Information Science Engineering Student
 
 **24u0669-prog**
